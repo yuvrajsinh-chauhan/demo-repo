@@ -9,3 +9,9 @@ ha
 ha
 ha
 done
+this is added from local machines terminal >> README.md
+
+
+
+
+echo this is added from local machines terminal
